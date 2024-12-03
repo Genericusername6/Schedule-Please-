@@ -1,0 +1,20 @@
+:root {
+    --main: #0a0612
+}
+
+body{
+    color:#0a0612 ;
+    background-color:  #ADD8E6;
+    background-size:contain;
+}
+
+img {
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 25% 50%, 0% 0%);
+}
+h1{
+    font-size: 4em
+}
+#birds{
+position:absolute;
+top:0;
+}
